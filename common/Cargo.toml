@@ -32,7 +32,7 @@ tracing.workspace = true
 parking_lot.workspace = true
 icons = { workspace = true }
 humansize = { workspace = true }
-zip = "0.6.6"
+zip = "1.1.1"
 walkdir = { workspace = true }
 extensions = { workspace = true }
 regex = { workspace = true }
